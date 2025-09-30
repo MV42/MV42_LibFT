@@ -14,7 +14,7 @@
 NAME			=	libft.a
 
 # Compiler Settings
-CC				=	gcc
+CC				=	cc
 CFLAG			=	-Wall -Wextra -Werror -g3
 
 # Directories

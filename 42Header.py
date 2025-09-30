@@ -3,7 +3,6 @@ import sys
 import argparse
 import datetime
 
-
 USER = "MV42"  # À modifier selon l'utilisateur souhaité
 USE_DATE_FIXED = True  # Mettre True pour utiliser DATE_FIXED, False pour auto
 DATE_FIXED = "2024/12/21 21:42:42"  # Mettre la date fixe ici au format "YYYY/MM/DD HH:MM:SS"
